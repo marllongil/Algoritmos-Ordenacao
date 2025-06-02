@@ -4,7 +4,7 @@
 # - Simples de entender e implementar.
 # - Pouca movimentação de dados, útil quando o custo de troca é alto.
 # Desvantagens:
-# - Ineficiente para grandes conjuntos de dados (O(n²)).
+# - Ineficiente para grandes conjuntos de dados.
 # - Não é estável.
 
 def selection_sort(arr):
