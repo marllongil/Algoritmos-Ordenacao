@@ -2,7 +2,6 @@
 # Bucket Sort
 # Vantagens:
 # - Muito eficiente quando os dados estão uniformemente distribuídos.
-# - Complexidade média O(n + k).
 # Desvantagens:
 # - Funciona melhor com dados decimais entre 0 e 1.
 # - Depende da escolha do tamanho e número de baldes.
