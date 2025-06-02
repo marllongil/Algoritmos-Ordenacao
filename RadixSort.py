@@ -2,7 +2,6 @@
 # Radix Sort
 # Vantagens:
 # - Muito eficiente para números inteiros grandes.
-# - Complexidade O(nk), onde k é o número de dígitos.
 # - Estável.
 # Desvantagens:
 # - Funciona apenas para inteiros ou dados que podem ser transformados em inteiros.
