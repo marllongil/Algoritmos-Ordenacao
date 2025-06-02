@@ -1,10 +1,9 @@
 
 # Quick Sort (Ordenação Rápida)
 # Vantagens:
-# - Muito eficiente na prática (O(n log n) em média).
+# - Muito eficiente na prática.
 # - Não usa memória extra significativa (ordenamento in-place).
 # Desvantagens:
-# - No pior caso, complexidade O(n²).
 # - Não é estável.
 
 def quick_sort(arr):
