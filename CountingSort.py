@@ -2,7 +2,6 @@
 # Counting Sort
 # Vantagens:
 # - Muito rápido para listas com números inteiros pequenos.
-# - Complexidade O(n + k), onde k é o maior valor.
 # - Estável.
 # Desvantagens:
 # - Não funciona com números negativos ou dados não inteiros sem adaptação.
