@@ -1,7 +1,6 @@
 
 # Merge Sort (Ordenação por Intercalação)
 # Vantagens:
-# - Complexidade O(n log n) em todos os casos.
 # - Estável.
 # - Funciona bem para grandes volumes de dados.
 # Desvantagens:
