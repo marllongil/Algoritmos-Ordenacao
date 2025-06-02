@@ -1,7 +1,6 @@
 
 # Heap Sort
 # Vantagens:
-# - Complexidade O(n log n) em todos os casos.
 # - Não requer memória extra significativa (ordenamento in-place).
 # Desvantagens:
 # - Não é estável.
